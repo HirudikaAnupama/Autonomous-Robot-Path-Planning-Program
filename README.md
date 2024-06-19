@@ -1,3 +1,3 @@
 
 
-<h1 align = "center">Path Finding Program</h1>
+<h1 align = "center" color = "red">Path Finding Program</h1>
