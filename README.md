@@ -59,16 +59,20 @@ This class represents the custom linked list implimentation for storing the shor
 #### _CustomQueue_ 
 This class represents a custom queue implementation for breadth-first search. The queue follows the principle of first-come-first-served, which helps implement a breadth-first search.
 
+<br>
 
 ## More information on functionality
 - Youtube - https://www.youtube.com/channel/UC74uAxWINrmP4YahKU9U2Bw
 - Tik tok - https://www.tiktok.com/@hirudika_anupama/video/7382702601244134663?lang=en
 
+<br>
 
 ## Key Features
 - Implementation of data structures and algorithms
 - Correct handling and use of Java Object Oriented Programming concepts
 - Correctly building a code from scratch.
+
+<br>
 
 ## Contact
 - Author: Hirudika Anupama
