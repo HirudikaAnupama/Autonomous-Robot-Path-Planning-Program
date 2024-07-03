@@ -62,7 +62,10 @@ This class represents a custom queue implementation for breadth-first search. Th
 <br>
 
 ## More information on functionality
-- Youtube - https://www.youtube.com/channel/UC74uAxWINrmP4YahKU9U2Bw
+
+From these links, you can watch videos on how to run the program and how it works.
+
+- Youtube - https://youtu.be/MLuandDnpAQ?si=Laao4fKj8lIn8Ln4
 - Tik tok - https://www.tiktok.com/@hirudika_anupama/video/7382702601244134663?lang=en
 
 <br>
