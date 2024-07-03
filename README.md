@@ -77,6 +77,35 @@ From these links, you can watch videos on how to run the program and how it work
 
 <br>
 
+## Installation
+
+- **First of all you need to install git and java into your computer**.<br>
+- **Then open command prompt and select your project installation directory as below code,** <br>
+
+  _cd "At this point you must provide your directory"_ <br>
+   Eg : _cd desktop_
+
+- **Then place this code. After executing this code the project is in the selected directory.** <br>
+
+  _git clone https://github.com/HirudikaAnupama/path-finding-program.git_
+
+- **Then navigate to the installed project src folder using command prompt.** <br>
+
+  Eg :  _cd  C:\Users\LENOVO\Desktop\path-finding-program\src_
+
+- **After you can place these commands seperatly.** <br>
+
+  _javac PathFindingProgram\*.java_ <br>
+  _java PathFindingProgram.Main_
+
+
+  
+ 
+
+
+
+
+
 ## Contact
 - Author: Hirudika Anupama
 - Email: hirudikaanupama4@gmail.com
