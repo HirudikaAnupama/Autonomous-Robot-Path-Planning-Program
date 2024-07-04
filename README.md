@@ -99,11 +99,7 @@ From these links, you can watch videos on how to run the program and how it work
   _java PathFindingProgram.Main_
 
 
-  
- 
-
-
-
+<br>
 
 
 ## Contact
